@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Paris"
+  },
+  {
+    "id": 2,
+    "name": "Dijon"
+  },
+  {
+    "id": 3,
+    "name": "Rennes"
+  },
+  {
+    "id": 4,
+    "name": "Bordeaux"
+  },
+  {
+    "id": 5,
+    "name": "Marseille"
+  },
+  {
+    "id": 6,
+    "name": "Montpellier"
+  },
+  {
+    "id": 7,
+    "name": "Strasbourg"
+  },
+  {
+    "id": 8,
+    "name": "Lille"
+  },
+  {
+    "id": 9,
+    "name": "Lyon"
+  },
+  {
+    "id": 10,
+    "name": "Nice"
+  },
+  {
+    "id": 11,
+    "name": "Saint-Etienne"
+  },
+  {
+    "id": 12,
+    "name": "Nantes"
+  },
+  {
+    "id": 13,
+    "name": "Toulouse"
+  },
+  {
+    "id": 14,
+    "name": "Brest"
+  },
+  {
+    "id": 15,
+    "name": "Metz"
+  },
+  {
+    "id": 45,
+    "name": "Tunis"
+  },
+  {
+    "id": 29,
+    "name": "Marrakech"
+  },
+  {
+    "id": 90,
+    "name": "Kabul"
+  },
+  {
+    "id": 100,
+    "name": "Téhéran"
+  },
+  {
+    "id": 38,
+    "name": "Perpignan"
+  },
+  {
+    "id": 39,
+    "name": "Madrid"
+  },
+  {
+    "id": 40,
+    "name": "Chartres"
+  },
+  {
+    "id": 41,
+    "name": "Carcassonne"
+  },
+  {
+    "id": 42,
+    "name": "Lorient"
+  },
+  {
+    "id": 43,
+    "name": "Pattaya"
+  },
+  {
+    "id": 44,
+    "name": "Sousse"
+  },
+  {
+    "id": 93,
+    "name": "Saint-denis"
+  },
+  {
+    "id": 94,
+    "name": "Montreuil"
+  }
+]
